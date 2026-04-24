@@ -1,0 +1,7 @@
+[
+  { "key": "alt+1", "command": "workbench.view.explorer" },
+  { "key": "alt+2", "command": "workbench.view.search" },
+  { "key": "alt+3", "command": "workbench.view.scm" },
+  { "key": "alt+4", "command": "workbench.view.debug" },
+  { "key": "alt+5", "command": "workbench.view.extensions" }
+]
